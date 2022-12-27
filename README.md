@@ -14,4 +14,4 @@ Retrouvez-nous sans limite sur la TNT Congolaise (Fréquence 554 MHz pour Brazza
 
 
 
-{"descriptionTrace":"B-Image est l'une des chaines privées Congolais emettant a Londre consacree produit et diffuse des émissions différente telsque la musique, polemique, theatres et autres...","sourceTrace":["http://51.254.199.122:8080/bundesTV/index.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yODYyMTUxNDBf/kitoko.jpeg","titleTrace":"B-IMAGE TV"}]}]}
+{"descriptionTrace":"B-Image est l'une des chaines privées Congolais emettant a Londre consacree produit et diffuse des musiques africaines et autres...","sourceTrace":["http://41.215.252.18:8080/live/bblack.encoded.all/playlist.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yODYyMTUxNDBf/kitoko.jpeg","titleTrace":"BLACK AFRICA TV"}]}]}
