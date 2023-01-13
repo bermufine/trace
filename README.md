@@ -1,7 +1,7 @@
 # trace
 {"categorieTrace":[{"name":"Movies","videos":[{"descriptionTrace":"MCM TOP 10 TV est une chaîne télévisée spécialisée dans la musique international","sourceTrace":["http://ott-cdn.ucom.am/s49/index.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yODY1NjM2Njlf/mcmtop.png","titleTrace":"MCM TOP 10"},
 
-{"descriptionTrace":"Vevo hits est une chaine de la musique international","sourceTrace":["https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yODQ2ODkyODlf/4e%CC%80meART.jpeg","titleTrace":"VEVO HITS"},
+{"descriptionTrace":"Vevo hits est une chaine de la musique international","sourceTrace":["https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yODY1NjM1NDZf/vevotv.png","titleTrace":"VEVO HITS"},
 
 {"descriptionTrace":"MTV HITS est une chaîne télévisée spécialisée dans la musique africaine et international.","sourceTrace":["http://50.7.237.4:8080/MTVHITS/index.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yODMzMTMwNzNf/mtvhits.png","titleTrace":"MTV HITS"},
 
