@@ -21,7 +21,7 @@
 
 {"descriptionTrace":"Musique TV est la premiere chaire culturelle de la RDCongo consacree a la musique Rumba, Ndombolo et autres du congo. kinmedia1@gmail.com, Société de médias/d’actualités , kinmedia tv","sourceTrace":["https://video1.getstreamhosting.com:1936/8337/8337/playlist.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yNzQ4NDUzNzBf/traceivoire.png","titleTrace":"MUSIQUE/COTE D'IVOIRE"},
 
-{"descriptionTrace":"AFROBEATS TV est la chaine de la RDCongo qui emette de la capital congolaise kinshasa qui diffuse de la musique congolaise et internationale","sourceTrace":["https://stream.ecable.tv/afrobeats/index.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yNDU0NzcyNzRf/afrobeats.jpg","titleTrace":"AFROBEATS TV"},
+{"descriptionTrace":"AFROBIT TV est la chaine de la RDCongo qui emette de la capital congolaise kinshasa qui diffuse de la musique congolaise et internationale","sourceTrace":["http://connectiktv.ddns.me:8080/live/61f2632aa8934-1/index.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yNDU0NzcyNzRf/afrobeats.jpg","titleTrace":"AFROBIT TV"},
 
 {"descriptionTrace":"Dream est l'une des chaines privées que l'on retrouve dans Yaounde possédant des émissions musicales variées ainsi que les movies","sourceTrace":["http://eja.tv/?134b9270342689b3350311fb02a94d55.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yNDg1NzcwNTFf/play.jpg","titleTrace":"DREAM TV"},
 
