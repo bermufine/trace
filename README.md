@@ -27,7 +27,7 @@
 
 {"descriptionTrace":"MyMusic est l'une des chaines privee du cameroune consacree a la music afro africaine","sourceTrace":["http://connectiktv.ddns.me:8080/live/6212475092fb3/index.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yNzEyMjMyNTdf/mm.jpg","titleTrace":"MY MUSIC / CAMEROUNE"},
 
-{"descriptionTrace":"Pulse P TV est une chaîne de télévision de divertissement africains","sourceTrace":["https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/pulse/c22c24a2-705b-4a7d-825c-776a077b9378/1.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yODYwMDA2ODdf/pulsep.jpg","titleTrace":"PULSE P TV"},
+{"descriptionTrace":"Pulse P TV est une chaîne de télévision de divertissement africains","sourceTrace":["https://d35j504z0x2vu2.cloudfront.net:443/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/pulse/772bc7d1-2c24-42fa-9f2e-aa4a21a7bcc9/2.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yODYwMDA2ODdf/pulsep.jpg","titleTrace":"PULSE P TV"},
 
 {"descriptionTrace":"Trace Latine est une chaîne de télévision de la musique latine","sourceTrace":["https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/3b1a3507-15e5-4aa0-88d8-1d8e7f18d0b0/1.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yODY0NjQxOTZf/tracelatine.png","titleTrace":"TRACE LATINE"},
 
