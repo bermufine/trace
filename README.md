@@ -1,5 +1,5 @@
 # trace
-{"categorieTrace":[{"name":"Movies","videos":[{"descriptionTrace":"Trace Bazuka TV est une chaîne télévisée spécialisée dans la musique international","sourceTrace":["https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/encrypted.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yODY1NjM2Njlf/mcmtop.png","titleTrace":"TRACE BAZUKA"},
+{"categorieTrace":[{"name":"Movies","videos":[{"descriptionTrace":"Trace Bazuka TV est une chaîne télévisée spécialisée dans la musique international","sourceTrace":["https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/encrypted.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yODgxNTc5NzRf/brazuca.png","titleTrace":"TRACE BAZUKA"},
 
 {"descriptionTrace":"MCM TOP 10 TV est une chaîne télévisée spécialisée dans la musique international","sourceTrace":["http://ott-cdn.ucom.am/s49/index.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yODY1NjM2Njlf/mcmtop.png","titleTrace":"MCM TOP 10"},
 
@@ -30,6 +30,8 @@
 {"descriptionTrace":"MyMusic est l'une des chaines privee du cameroune consacree a la music afro africaine","sourceTrace":["http://connectiktv.ddns.me:8080/live/6212475092fb3/index.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yNzEyMjMyNTdf/mm.jpg","titleTrace":"MY MUSIC / CAMEROUNE"},
 
 {"descriptionTrace":"Pulse P TV est une chaîne de télévision de divertissement africains","sourceTrace":["https://d35j504z0x2vu2.cloudfront.net:443/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/pulse/772bc7d1-2c24-42fa-9f2e-aa4a21a7bcc9/2.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yODYwMDA2ODdf/pulsep.jpg","titleTrace":"PULSE P TV"},
+
+{"descriptionTrace":"Ayisyana Musik TV est une chaîne de télévision du musique international","sourceTrace":["https://59d39900ebfb8.streamlock.net:443/RTHAITIANA/RTHAITIANA/chunklist_w1180876317.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yODgxNTgwNDVf/ayisyane.jpg","titleTrace":"AYISYANA MUSIK TV"},
 
 {"descriptionTrace":"Trace Latine est une chaîne de télévision de la musique latine","sourceTrace":["https://d35j504z0x2vu2.cloudfront.net:443/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/87c4ef3c-7482-40b9-accd-caf0af5bb053/1.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yODY0NjQxOTZf/tracelatine.png","titleTrace":"TRACE LATINE"},
 
