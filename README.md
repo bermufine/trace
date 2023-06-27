@@ -7,6 +7,8 @@
 
 {"descriptionTrace":"AFROBIT TV est la chaine de la RDCongo qui emette de la capital congolaise kinshasa qui diffuse de la musique congolaise et internationale","sourceTrace":["http://connectiktv.ddns.me:8080/live/61f2632aa8934-1/index.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yNDU0NzcyNzRf/afrobeats.jpg","titleTrace":"AFROBIT TV"},
 
+{"descriptionTrace":"Obosso TV est une chaîne du congo brazza en diffusant des musiques congolaise et africains...."sourceTrace":["https://stream.ecable.tv/afrobeats/index.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yNTQyMjA0NDdf/obosso.png","titleTrace":"AFROBIT TV"},
+
 {"descriptionTrace":"DBN TV est la chaine  consacrée à  la musique d'Afrique et internationale....","sourceTrace":["https://edge11.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yNjUzMDQ5NDRf/dbm","titleTrace":"DBN TV"},
 
 {"descriptionTrace":"Musique TV est la premiere chaire culturelle de la RDCongo consacree a la musique Rumba, Ndombolo et autres du congo. kinmedia1@gmail.com, Société de médias/d’actualités , kinmedia tv","sourceTrace":["https://video1.getstreamhosting.com:1936/8337/8337/playlist.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yNzQ4NDUzNzBf/traceivoire.png","titleTrace":"MUSIQUE/COTE D'IVOIRE"},
