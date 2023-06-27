@@ -31,22 +31,9 @@ Retrouvez-nous sans limite sur la TNT Congolaise (Fréquence 554 MHz pour Brazza
 
 {"descriptionTrace":"BAZIK TV c’est d’abord et avant tout, la première chaine urbaine mobile et musicale au Congo. Basée en France, la chaine a plusieurs déclinaisons dont BAZIK CLASSIK (RAP), BAZIK AFRICA, BAZIK CARAÏBES, BAZIK RAI, BAZIK CONGO. L’origine du nom BAZIK TV peut compris en langue bantoue comme « BA » préfixe du pluriel, « Zik » comme « musique » en argot, hommage à la culture urbaine. Chez BAZIK TV, nous oeuvrons pour la culture musicale. Le but de la chaîne est de mettre en valeur les styles urbains, sans frontières ni horizons. De la diversité musicale, mais surtout le meilleur de la musique. BAZIK TV est incontestablement la chaîne musicale la plus regardée des IPTV. Ne ratez plus aucune actualité musicale avec BAZIK TV. Retrouvez-nous sans limite sur la TNT Congolaise (Fréquence 554 MHz pour Brazzaville et Fréquence 482 MHz pour Kinshasa). Nous sommes également diffuser sur le bouquet BISENGO de Bleu Sat Congo (Canal 19), ainsi que sur le bouquet BRAVO de l’application BLEU OTT (Canal 33).","sourceTrace":["https://baziktv.vedge.infomaniak.com/livecast/ik:baziktv/manifest.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yNjk4NjQ4NzBf/baziktv.png","titleTrace":"BAZIK TV"},
 
-
-
-{"descriptionTrace":"Vevo hits est une chaine de la musique international","sourceTrace":["https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yODY1NjM1NDZf/vevotv.png","titleTrace":"VEVO HITS"},
-
 {"descriptionTrace":"MTV HITS est une chaîne télévisée spécialisée dans la musique africaine et international.","sourceTrace":["http://50.7.237.4:8080/MTVHITS/index.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yODMzMTMwNzNf/mtvhits.png","titleTrace":"MTV HITS"},
 
-{"descriptionTrace":"Kadak Hits c’est la télé du plaisir, Une Chaîne à 100% de musique indienne et d'ailleurs","sourceTrace":["https://live.hungama.com/linear/kadak-hits/playlist.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yODY1NjM2NjVf/kadak.jpg","titleTrace":"KADAK HITS TVL"},
-
-{"descriptionTrace":"D5 TV Music est une chaîne télévisée spécialisée dans la musique africaine et international.","sourceTrace":["https://live.creacast.com/d5music/smil:d5music.smil/playlist.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yODM2MDkxNDJf/dfive.png","titleTrace":"D5 TV MUSIC"},
-
-
-
-
-{"descriptionTrace":"Dream est l'une des chaines privées que l'on retrouve dans Yaounde possédant des émissions musicales variées ainsi que les movies","sourceTrace":["http://eja.tv/?134b9270342689b3350311fb02a94d55.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yNDg1NzcwNTFf/play.jpg","titleTrace":"DREAM TV"},
-
-{"descriptionTrace":"MyMusic est l'une des chaines privee du cameroune consacree a la music afro africaine","sourceTrace":["http://connectiktv.ddns.me:8080/live/6212475092fb3/index.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yNzEyMjMyNTdf/mm.jpg","titleTrace":"MY MUSIC / CAMEROUNE"},
+{"descriptionTrace":"Play est l'une des chaines privées que l'on retrouve dans Yaounde possédant des émissions musicales variées ainsi que les movies","sourceTrace":["http://eja.tv/?134b9270342689b3350311fb02a94d55.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yNDg1NzcwNTFf/play.jpg","titleTrace":"PLAY TV"},
 
 {"descriptionTrace":"Trace Africa est une chaîne télévisée spécialisée dans la musique africaine et international.","sourceTrace":["http://41.215.252.18:8080/live/traceafrica_enc_new/chunks.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yNjMyMzgzMjNf/TraceAfricajpeg","titleTrace":"TRACE AFRICA"},
 
@@ -54,9 +41,8 @@ Retrouvez-nous sans limite sur la TNT Congolaise (Fréquence 554 MHz pour Brazza
 
 {"descriptionTrace":"Trace Latine est une chaîne de télévision de la musique latine","sourceTrace":["https://d35j504z0x2vu2.cloudfront.net:443/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/87c4ef3c-7482-40b9-accd-caf0af5bb053/1.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yODY0NjQxOTZf/tracelatine.png","titleTrace":"TRACE LATINE"},
 
+{"descriptionTrace":"Black Musique est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...","sourceTrace":["http://livevideo.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yODY0NjQyNTBf/bblack.jpg","titleTrace":"BLACK AFRICA"},
 
+{"descriptionTrace":"Black Musique est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...","sourceTrace":["http://livevideo.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yODY0NjQyNTBf/bblack.jpg","titleTrace":"BLACK CARIBEAN"},
 
-
-
-
-{"descriptionTrace":"Black Musique est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...","sourceTrace":["http://41.215.252.18:8080/live/bblack.encoded.all/playlist.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yODY0NjQyNTBf/bblack.jpg","titleTrace":"BLACK AFRICA TV"}]}]}
+{"descriptionTrace":"Black Musique est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...","sourceTrace":["http://livevideo.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yODY0NjQyNTBf/bblack.jpg","titleTrace":"BLACK CLASSIC"}]}]}
