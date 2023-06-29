@@ -11,6 +11,8 @@
 
 {"descriptionTrace":"DBN TV est la chaine  consacrée à  la musique d'Afrique et internationale....","sourceTrace":["https://edge11.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yNjUzMDQ5NDRf/dbm","titleTrace":"DBN TV"},
 
+{"descriptionTrace":"Tele Musik TV est la chaine privee du senegal consacree au music....","sourceTrace":["https://58c04fb1d143f.streamlock.net/rezopropartner_1/rezopropartner_1/playlist.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"[https://od.lk/s/M18yOTEwMjQ3MTBf/telemusiksenegal.png","titleTrace":"TELE MUSIK"},
+
 {"descriptionTrace":"Musique TV est la premiere chaire culturelle de la RDCongo consacree a la musique Rumba, Ndombolo et autres du congo. kinmedia1@gmail.com, Société de médias/d’actualités , kinmedia tv","sourceTrace":["https://video1.getstreamhosting.com:1936/8337/8337/playlist.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yNzQ4NDUzNzBf/traceivoire.png","titleTrace":"MUSIQUE/COTE D'IVOIRE"},
 
 {"descriptionTrace":"V2beat TV est la chaîne consacree à la musique internationale","sourceTrace":["https://de1se01.v2beat.live/playlist.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yODYzNTQ5OTJf/v2beat.jpeg","titleTrace":"V2BEAT TV"},
