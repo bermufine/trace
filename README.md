@@ -49,14 +49,8 @@ Retrouvez-nous sans limite sur la TNT Congolaise (Fréquence 554 MHz pour Brazza
 
 {"descriptionTrace":"Black Musique est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...","sourceTrace":["http://livevideo.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yODY0NjQyNTBf/bblack.jpg","titleTrace":"BLACK CLASSIC"},
 
-{"descriptionTrace":"Muzik est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...","sourceTrace":["https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yODMzMTMwNzNf/mtvhits.png","titleTrace":"MUZIK"}
+{"descriptionTrace":"Muzik est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...","sourceTrace":["https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yODMzMTMwNzNf/mtvhits.png","titleTrace":"MUZIK"},
 
+{"descriptionTrace":"MY Music est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...","sourceTrace":["http://mntv.livebox.co.in/musichls/live.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yODM2MDkxNDJf/dfive.png","titleTrace":"MY MUSIC"},
 
-{"descriptionTrace":"MY Music est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...","sourceTrace":["http://mntv.livebox.co.in/musichls/live.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yODM2MDkxNDJf/dfive.png","titleTrace":"MY MUSIC"}
-
-{"descriptionTrace":"Trace Urban est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...","sourceTrace":["https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yNDg1NzcwNTFf/play.jpg","titleTrace":"TRACE URBAN"}
-
-
-
-
-]}]}
+{"descriptionTrace":"Trace Urban est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...","sourceTrace":["https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yNDg1NzcwNTFf/play.jpg","titleTrace":"TRACE URBAN"}]}]}
