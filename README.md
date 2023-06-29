@@ -33,16 +33,4 @@
 
 {"descriptionTrace":"Trace Kitoko est une une chaîne spécialisée aux musiques Congolaise,  Rumba, Ndombolo et autres","sourceTrace":["http://41.215.252.18:8080/live/tracekitoko_enc_new/chunks.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yODYyMTUxNDBf/kitoko.jpeg","titleTrace":"TRACE KITOKO TV"},
 
-{"descriptionTrace":"Trace Latine est une chaîne de télévision de la musique latine","sourceTrace":["https://d35j504z0x2vu2.cloudfront.net:443/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/87c4ef3c-7482-40b9-accd-caf0af5bb053/1.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yODY0NjQxOTZf/tracelatine.png","titleTrace":"TRACE LATINE"},
-
-{"descriptionTrace":"Black Musique est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...","sourceTrace":["http://livevideo.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yODY0NjQyNTBf/bblack.jpg","titleTrace":"BLACK AFRICA"},
-
-{"descriptionTrace":"Black Musique est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...","sourceTrace":["http://livevideo.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yODY0NjQyNTBf/bblack.jpg","titleTrace":"BLACK CARIBEAN"},
-
-{"descriptionTrace":"Black Musique est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...","sourceTrace":["http://livevideo.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yODY0NjQyNTBf/bblack.jpg","titleTrace":"BLACK CLASSIC"},
-
-{"descriptionTrace":"Muzik est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...","sourceTrace":["https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yODMzMTMwNzNf/mtvhits.png","titleTrace":"MUZIK"},
-
-{"descriptionTrace":"MY Music est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...","sourceTrace":["http://mntv.livebox.co.in/musichls/live.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yODM2MDkxNDJf/dfive.png","titleTrace":"MY MUSIC"},
-
-{"descriptionTrace":"Trace Urban est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...","sourceTrace":["https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yNDg1NzcwNTFf/play.jpg","titleTrace":"TRACE URBAN"}]}]}
+{"descriptionTrace":"Trace Latine est une chaîne de télévision de la musique latine","sourceTrace":["https://d35j504z0x2vu2.cloudfront.net:443/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/87c4ef3c-7482-40b9-accd-caf0af5bb053/1.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yODY0NjQxOTZf/tracelatine.png","titleTrace":"TRACE LATINE"}]}]}
