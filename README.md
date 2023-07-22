@@ -37,6 +37,8 @@ Retrouvez-nous sans limite sur la TNT Congolaise Fréquence 554 MHz pour Brazzav
 
 {"descriptionTrace":"MTV HITS est une chaîne télévisée spécialisée dans la musique africaine et international.","sourceTrace":["http://50.7.237.4:8080/MTVHITS/index.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yODMzMTMwNzNf/mtvhits.png","titleTrace":"MTV HITS"},
 
+{"descriptionTrace":"HMI Promz news TV est une chaîne de télévision de divertissement africains","sourceTrace":["https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yOTE2NzM5Mjdf/hmipromz.jpeg","titleTrace":"HMI PROMZ NEWS"},
+
 {"descriptionTrace":"Play est l'une des chaines privées que l'on retrouve dans Yaounde possédant des émissions musicales variées ainsi que les movies","sourceTrace":["http://eja.tv/?134b9270342689b3350311fb02a94d55.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yNDg1NzcwNTFf/play.jpg","titleTrace":"PLAY TV"},
 
 {"descriptionTrace":"Trace Africa est une chaîne télévisée spécialisée dans la musique africaine et international.","sourceTrace":["http://41.215.252.18:8080/live/traceafrica_enc_new/chunks.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yNjMyMzgzMjNf/TraceAfricajpeg","titleTrace":"TRACE AFRICA"},
