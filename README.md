@@ -13,7 +13,7 @@
 
 {"descriptionTrace":"Tele Musik TV est la chaine privee du senegal consacree au music....","sourceTrace":["https://58c04fb1d143f.streamlock.net/rezopropartner_1/rezopropartner_1/playlist.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yOTEwMjQ3MTBf/telemusiksenegal.png","titleTrace":"TELE MUSIK"},
 
-{"descriptionTrace":"Musique TV est la premiere chaire culturelle de la RDCongo consacree a la musique Rumba, Ndombolo et autres du congo. kinmedia1@gmail.com, Société de médias/d’actualités , kinmedia tv","sourceTrace":["https://video1.getstreamhosting.com:1936/8337/8337/playlist.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yNzQ4NDUzNzBf/traceivoire.png","titleTrace":"MUSIQUE/COTE D'IVOIRE"},
+{"descriptionTrace":"Trace Ivoire TV est la premiere chaine culturelle  consacree a la musique Rumba, Ndombolo et autres du congo. kinmedia1@gmail.com, Société de médias/d’actualités , kinmedia tv","sourceTrace":["https://video1.getstreamhosting.com:1936/8337/8337/playlist.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yNzQ4NDUzNzBf/traceivoire.png","titleTrace":"TRACE IVOIRE"},
 
 {"descriptionTrace":"V2beat TV est la chaîne consacree à la musique internationale","sourceTrace":["https://de1se01.v2beat.live/playlist.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yODYzNTQ5OTJf/v2beat.jpeg","titleTrace":"V2BEAT TV"},
 
@@ -37,7 +37,7 @@ Retrouvez-nous sans limite sur la TNT Congolaise Fréquence 554 MHz pour Brazzav
 
 {"descriptionTrace":"MTV HITS est une chaîne télévisée spécialisée dans la musique africaine et international.","sourceTrace":["http://50.7.237.4:8080/MTVHITS/index.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yODMzMTMwNzNf/mtvhits.png","titleTrace":"MTV HITS"},
 
-{"descriptionTrace":"HMI Promz news TV est une chaîne de télévision de divertissement africains","sourceTrace":["https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yOTE2NzM5Mjdf/hmipromz.jpeg","titleTrace":"HMI PROMZ NEWS"},
+{"descriptionTrace":"HMI PROMZ NEWS is an independent communication and multimedia company working in the promotion, distribution, production of Haitian music and culture in general. This  multidimensional company was founded on  March 30, 2019 by career journalist  Claude Bellevue, gathering around him, a group of professionals  working in the field of information,  public relations, major events,  marketing, audiovisual, staging, lighting, sound and artistic creation in order to offer an international audience to the rich Haitian culture","sourceTrace":["https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yOTE2NzM5Mjdf/hmipromz.jpeg","titleTrace":"HMI PROMZ NEWS"},
 
 {"descriptionTrace":"Play est l'une des chaines privées que l'on retrouve dans Yaounde possédant des émissions musicales variées ainsi que les movies","sourceTrace":["http://eja.tv/?134b9270342689b3350311fb02a94d55.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yNDg1NzcwNTFf/play.jpg","titleTrace":"PLAY TV"},
 
