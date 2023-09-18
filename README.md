@@ -39,7 +39,7 @@ Retrouvez-nous sans limite sur la TNT Congolaise Fréquence 554 MHz pour Brazzav
 
 {"descriptionTrace":"HMI PROMZ NEWS is an independent communication and multimedia company working in the promotion, distribution, production of Haitian music and culture in general. This  multidimensional company was founded on  March 30, 2019 by career journalist  Claude Bellevue, gathering around him, a group of professionals  working in the field of information,  public relations, major events,  marketing, audiovisual, staging, lighting, sound and artistic creation in order to offer an international audience to the rich Haitian culture","sourceTrace":["https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yOTE2NzM5Mjdf/hmipromz.jpeg","titleTrace":"HMI PROMZ NEWS"},
 
-{"descriptionTrace":"Play est l'une des chaines privées que l'on retrouve dans Yaounde possédant des émissions musicales variées ainsi que les movies","sourceTrace":["http://eja.tv/?134b9270342689b3350311fb02a94d55.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yNDg1NzcwNTFf/play.jpg","titleTrace":"PLAY TV"},
+{"descriptionTrace":"Nu View a music channel from south africa","sourceTrace":["https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4295"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yNDg1NzcwNTFf/play.jpg","titleTrace":"NU VIEW TV"},
 
 {"descriptionTrace":"Trace Africa est une chaîne télévisée spécialisée dans la musique africaine et international.","sourceTrace":["http://41.215.252.18:8080/live/traceafrica_enc_new/chunks.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yNjMyMzgzMjNf/TraceAfricajpeg","titleTrace":"TRACE AFRICA"},
 
