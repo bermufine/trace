@@ -41,7 +41,7 @@ Retrouvez-nous sans limite sur la TNT Congolaise Fréquence 554 MHz pour Brazzav
 
 {"descriptionTrace":"Nu View a music channel from south africa","sourceTrace":["https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4295"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yNDg1NzcwNTFf/play.jpg","titleTrace":"NU VIEW TV"},
 
-{"descriptionTrace":"Trace Africa est une chaîne télévisée spécialisée dans la musique africaine et international.","sourceTrace":["http://41.215.252.18:8080/live/traceafrica_enc_new/chunks.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yNjMyMzgzMjNf/TraceAfricajpeg","titleTrace":"TRACE AFRICA"},
+{"descriptionTrace":"Trace Africa est une chaîne télévisée spécialisée dans la musique africaine et international.","sourceTrace":["http://102.132.19.90:8000/play/a04k/index.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yNjMyMzgzMjNf/TraceAfricajpeg","titleTrace":"TRACE AFRICA"},
 
 {"descriptionTrace":"Trace Kitoko est une une chaîne spécialisée aux musiques Congolaise,  Rumba, Ndombolo et autres","sourceTrace":["http://41.215.252.18:8080/live/tracekitoko_enc_new/chunks.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yODYyMTUxNDBf/kitoko.jpeg","titleTrace":"TRACE KITOKO TV"},
 
