@@ -1,5 +1,7 @@
 # trace
-{"categorieTrace":[{"name":"Movies","videos":[{"descriptionTrace":"Trace Bazuka TV est une chaîne télévisée spécialisée dans la musique international","sourceTrace":["https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/encrypted.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yODgxNTc5NzRf/brazuca.png","titleTrace":"TRACE BAZUKA"},
+{"categorieTrace":[{"name":"Movies","videos":[{"descriptionTrace":"Trace Kitoko est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...","sourceTrace":["http://185.59.221.131:8081/live/tracekitoko/playlist.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yODYyMTUxNDBf/kitoko.jpeg","titleTrace":"TRACE KITOKO"},
+
+{"descriptionTrace":"Trace Bazuka TV est une chaîne télévisée spécialisée dans la musique international","sourceTrace":["https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/encrypted.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yODgxNTc5NzRf/brazuca.png","titleTrace":"TRACE BAZUKA"},
 
 {"descriptionTrace":"Trace Urbain TV est la chaine  consacrée à  la musique d'Afrique et internationale....","sourceTrace":["https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8"],"subtitleTrace":"By Channel","thumbTrace":"https://od.lk/s/M18yNjUzMDQ5MzVf/urban","titleTrace":"TRACE URBAN"},
 
